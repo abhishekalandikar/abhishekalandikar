@@ -20,10 +20,10 @@ A blockchain solution to combat counterfeit pharmaceuticals, ensuring product au
 
 ## 📚 Skills & Technologies
 
-- **Languages:** Python, Java, C#, SQL
-- **Frameworks:** ASP.NET, Flask, Django
-- **Tools & Platforms:** Tableau, Power BI, Git, Docker
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Languages:** Python, C#, SQL
+- **Frameworks:** ASP.NET, Flask
+- **Tools & Platforms:** Tableau, Git
+- **Databases:** MySQL
 
 
 
@@ -33,7 +33,7 @@ A blockchain solution to combat counterfeit pharmaceuticals, ensuring product au
 
 ## 🌐 Connect with Me
 
-I'm always open to questions, feedback, and collaboration ideas. Reach out via [GitHub](https://github.com/abhishekalandikar) or connect with me on [LinkedIn](https://www.linkedin.com/in/abhishekalandikar).
+I'm always open to questions, feedback, and collaboration ideas. Reach out via [GitHub](https://github.com/abhishekalandikar) or connect with me on [LinkedIn](www.linkedin.com/in/abhishek-alandikar-18917b22b).
 
 ---
 
