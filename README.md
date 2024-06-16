@@ -33,7 +33,7 @@ A blockchain solution to combat counterfeit pharmaceuticals, ensuring product au
 
 ## 🌐 Connect with Me
 
-I'm always open to questions, feedback, and collaboration ideas. Reach out via [GitHub](https://github.com/abhishekalandikar) or connect with me on [LinkedIn](www.linkedin.com/in/abhishek-alandikar-18917b22b).
+I'm always open to questions, feedback, and collaboration ideas. Reach out via [GitHub](https://github.com/abhishekalandikar) or connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-alandikar-18917b22b).
 
 ---
 
