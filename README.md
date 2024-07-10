@@ -30,6 +30,7 @@ A blockchain solution to combat counterfeit pharmaceuticals, ensuring product au
 ## 📈 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekalandikar&show_icons=true&theme=radical)
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekalandikar&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
