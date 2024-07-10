@@ -4,10 +4,10 @@ Hello! I'm Abhishek, a passionate developer and data enthusiast. Explore my proj
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhishekalandikar&color=blue)
 
-## 🚀 Featured Projects
+## 🚀 Top Projects
 
-### [🔬 Breast Cancer Diagnosis](https://github.com/abhishekalandikar/BreastCancerDiagnosis)
-Harnessing machine learning to diagnose breast cancer with high accuracy.
+### [📄 Mail Merge Document Generator](https://github.com/abhishekalandikar/MailMerge-DocumentGenerator)
+A robust application for generating documents with mail merge functionality, integrated with a database to fetch customer details for creating legal documents.
 
 ### [📊 Netflix Data Analysis](https://github.com/abhishekalandikar/NETFLIX-DATA-ANALYSIS)
 Dive into Netflix data using SQL and Tableau to discover captivating insights.
@@ -30,6 +30,7 @@ A blockchain solution to combat counterfeit pharmaceuticals, ensuring product au
 ## 📈 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekalandikar&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekalandikar&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
 
